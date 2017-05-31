@@ -10,3 +10,6 @@ Dar permisos de ejecución:
 
 y ejecutar:
 `./parse`
+
+# Congifuración
+Cambiar la variable `OUT` dentro del archivo `parse` para cambiar el directorio de salida.
